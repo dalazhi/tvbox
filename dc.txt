@@ -1,0 +1,18 @@
+
+{
+    "storeHouse":[
+        {
+                "sourceName":"主力仓",
+                "sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json"
+        },
+        {
+                "sourceName":"备用网络仓",
+                "sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/2%e4%bb%93.json"
+        },
+       
+        {
+                "sourceName":"英雄仓",
+                "sourceUrl":"https://agit.ai/gk0746/pxy/raw/branch/master/%e8%8b%b1%e9%9b%84.json"
+        }
+    ]
+}
