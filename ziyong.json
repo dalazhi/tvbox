@@ -1,0 +1,12 @@
+{
+"storeHouse":[
+{
+"sourceName":"在线仓库",
+"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/自用线路.json"
+},
+{
+"sourceName":"sex仓库",
+"sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/SEX.json"
+}
+]
+}
