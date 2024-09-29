@@ -4,7 +4,7 @@
 {
 "storeHouse": [
 
-{ "sourceName": "自用①号", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yutian88881/tvbox/main/duomv/1" }, 
+{ "sourceName": "自用①号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/jiekou" }, 
 { "sourceName": "自用②号", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yutian88881/tvbox/main/duomv/2" }, 
 { "sourceName": "备用①号", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yutian88881/tvbox/main/duomv/3" },
 { "sourceName": "备用②号", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yutian88881/tvbox/main/duomv/4" },
