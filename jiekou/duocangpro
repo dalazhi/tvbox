@@ -2,9 +2,19 @@
 //更新于 2023.6.8
 
 {
-"storeHouse": [
-{ "sourceName": "自用①号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/jiekou" }, 
-{ "sourceName": "自用②号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/zy" }, 
-{ "sourceName": "VIP  号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/fuli" }
-              ]
+    "storeHouse":[
+        {
+                "sourceName":"主力仓",
+                "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/jiekou"
+        },
+        {
+                "sourceName":"备用网络仓",
+                "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/zy"
+        },
+       
+        {
+                "sourceName":"英雄仓",
+                "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/fuli"
+        }
+    ]
 }
