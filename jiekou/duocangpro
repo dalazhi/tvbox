@@ -3,10 +3,8 @@
 
 {
 "storeHouse": [
-
 { "sourceName": "自用①号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/jiekou" }, 
 { "sourceName": "自用②号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/zy" }, 
 { "sourceName": "VIP  号", "sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/main/jiekou/fuli" }
-
-]
+              ]
 }
