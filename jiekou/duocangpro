@@ -8,12 +8,12 @@
                 "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/jiekou"
         },
         {
-                "sourceName":"备用网络仓",
+                "sourceName":"自用仓",
                 "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/zy"
         },
        
         {
-                "sourceName":"英雄仓",
+                "sourceName":"福利仓",
                 "sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/dalazhi/tvbox/refs/heads/main/jiekou/fuli"
         }
     ]
