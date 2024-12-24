@@ -11,5 +11,7 @@ https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ne7359/tvurl/refs/heads/main/0826.json
+
 公益免费接口 永不收费 内含稳定秒播4K专线：
 http://tv.laohu.cool/tvbox.json
