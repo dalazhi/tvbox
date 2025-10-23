@@ -1,5 +1,5 @@
 {
-  "spider": [
+  "urls": [
     {
       "name": "天微科技",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json"
